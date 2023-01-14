@@ -1,8 +1,5 @@
 # smart-brain-api
-API for smart brain frontend. Built with ExpressJs. Has basic CRUD functionality
-
-
-## This project has especially the register and sign in support for the smartbrain frontend.
+- API for smart brain frontend. Built with ExpressJs. Has basic CRUD functionality. This project has especially the register and sign in support for the smartbrain frontend.
 - It is built with ExpressJs. and its database is postgressql connected with knex
 - The dependencies include:
     - "body-parser": "^1.19.0",
